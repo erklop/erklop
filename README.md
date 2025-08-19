@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @erklop
+- 👋 Hi, I’m erick Lopez!
 - 👀 I’m interested in learning more coding languages!
-- 🌱 I’m currently learning how to code in python and will learn C++ after
+- 🌱 I’m currently making projects
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me: my email erklopez@gmail.com
 - 😄 Pronouns: He/Him
